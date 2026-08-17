@@ -1,0 +1,842 @@
+[
+  {
+    "num_oc": "1255",
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 14000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "6/14/26"
+  },
+  {
+    "num_oc": "1255",
+    "produto": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 450,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "6/14/26"
+  },
+  {
+    "num_oc": "1255",
+    "produto": "13486",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 14000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "6/14/26"
+  },
+  {
+    "num_oc": "1288",
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 14000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "5/22/26"
+  },
+  {
+    "num_oc": "1288",
+    "produto": "16904",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CASTANHO",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 14000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "5/22/26"
+  },
+  {
+    "num_oc": "1293",
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 14000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "5/22/26"
+  },
+  {
+    "num_oc": "1293",
+    "produto": "12262",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 14000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "5/22/26"
+  },
+  {
+    "num_oc": "1345",
+    "produto": "30099",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE 626 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 12800,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1345",
+    "produto": "30100",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLUSH (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 3600,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1345",
+    "produto": "30101",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MENTA (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 400,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1345",
+    "produto": "30103",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - LAGOA AZUL (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 1200,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1345",
+    "produto": "30105",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - ROSE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 1200,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1345",
+    "produto": "30107",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CANELA (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 1600,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1345",
+    "produto": "30113",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BORDO (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 3400,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1345",
+    "produto": "30117",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CAFE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 3800,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1346",
+    "produto": "30101",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MENTA (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 4000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1346",
+    "produto": "30103",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - LAGOA AZUL (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 3200,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1346",
+    "produto": "30108",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CARAMELO (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 3200,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1346",
+    "produto": "30109",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CASTOR (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 5000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1346",
+    "produto": "30110",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CONHAQUE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 3600,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1346",
+    "produto": "30111",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MEL (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 1200,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1346",
+    "produto": "30113",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BORDO (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 800,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1346",
+    "produto": "30117",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CAFE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 4600,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1346",
+    "produto": "30118",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MILITAR (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 2400,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1347",
+    "produto": "30100",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLUSH (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 1400,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1347",
+    "produto": "30102",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - NUDE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 8000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1347",
+    "produto": "30104",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE 526 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 10600,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1347",
+    "produto": "30106",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CAMEL 1165 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 6800,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1347",
+    "produto": "30111",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MEL (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 1200,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1348",
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 3400,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1348",
+    "produto": "30099",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE 626 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 15200,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "6/3/26"
+  },
+  {
+    "num_oc": "1348",
+    "produto": "30105",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - ROSE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 2400,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1348",
+    "produto": "30117",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CAFE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 7000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1349",
+    "produto": "30099",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE 626 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 28000,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "9/3/26"
+  },
+  {
+    "num_oc": "1357",
+    "produto": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 10000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1357",
+    "produto": "13486",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 15000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1357",
+    "produto": "30101",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MENTA (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 600,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1357",
+    "produto": "30102",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - NUDE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 2000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1357",
+    "produto": "30103",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - LAGOA AZUL (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 400,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "6/10/26"
+  },
+  {
+    "num_oc": "1358",
+    "produto": "30103",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - LAGOA AZUL (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 200,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1358",
+    "produto": "30104",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE 526 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 17400,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1358",
+    "produto": "30105",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - ROSE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 1400,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1358",
+    "produto": "30106",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CAMEL 1165 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 8200,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1358",
+    "produto": "30107",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CANELA (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 800,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1360",
+    "produto": "30107",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CANELA (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 12600,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1360",
+    "produto": "30108",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CARAMELO (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 6800,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1360",
+    "produto": "30109",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CASTOR (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 5000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1360",
+    "produto": "30110",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CONHAQUE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 3600,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1361",
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 11600,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1361",
+    "produto": "30099",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE 626 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 3000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1361",
+    "produto": "30110",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CONHAQUE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 2800,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1361",
+    "produto": "30111",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MEL (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 7600,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1361",
+    "produto": "30113",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BORDO (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 400,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1361",
+    "produto": "30118",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MILITAR (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 2600,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "9/10/26"
+  },
+  {
+    "num_oc": "1471",
+    "produto": "30099",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE 626 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 8000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "10/1/26"
+  },
+  {
+    "num_oc": "1471",
+    "produto": "30107",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CANELA (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 10000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "10/1/26"
+  },
+  {
+    "num_oc": "1471",
+    "produto": "30114",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OCRE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 10000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "10/1/26"
+  },
+  {
+    "num_oc": "1530",
+    "produto": "30099",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE 626 (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 15000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "7/14/26"
+  },
+  {
+    "num_oc": "1530",
+    "produto": "30114",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OCRE (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 15000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "7/14/26"
+  },
+  {
+    "num_oc": "1580",
+    "produto": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 13706,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "7/29/26"
+  },
+  {
+    "num_oc": "1580",
+    "produto": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 13200,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "7/29/26"
+  },
+  {
+    "num_oc": "1581",
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 30000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "10/29/26"
+  },
+  {
+    "num_oc": "1581",
+    "produto": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 25000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "10/29/26"
+  },
+  {
+    "num_oc": "1581",
+    "produto": "14730",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 WHITE COM MARCA D'AGUA",
+    "grupo": "13",
+    "familia": "NEW BASE VITÓRIA WZ",
+    "qtd_aberto": 5000,
+    "vlr_un": 2.13,
+    "dt_prazo_ent": "10/29/26"
+  },
+  {
+    "num_oc": "1612",
+    "produto": "8925",
+    "desc_completa": "BASE COMFY PU 1.4MM -  PRETO",
+    "grupo": "13",
+    "familia": "BASE COMFY",
+    "qtd_aberto": 7000,
+    "vlr_un": 2.6,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1612",
+    "produto": "30161",
+    "desc_completa": "BASE COMFY PU 1.4MM - OFF WHITE 526",
+    "grupo": "13",
+    "familia": "BASE COMFY",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.44,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1612",
+    "produto": "30162",
+    "desc_completa": "BASE COMFY PU 1.4MM - CAMEL 1165",
+    "grupo": "13",
+    "familia": "BASE COMFY",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.6,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1612",
+    "produto": "30163",
+    "desc_completa": "BASE COMFY PU 1.4MM - BEGE 626",
+    "grupo": "13",
+    "familia": "BASE COMFY",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.44,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1612",
+    "produto": "30164",
+    "desc_completa": "BASE COMFY PU 1.4MM - CANELA",
+    "grupo": "13",
+    "familia": "BASE COMFY",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.6,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1612",
+    "produto": "30165",
+    "desc_completa": "BASE COMFY PU 1.4MM - BORDO",
+    "grupo": "13",
+    "familia": "BASE COMFY",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.6,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1612",
+    "produto": "30166",
+    "desc_completa": "BASE COMFY PU 1.4MM - CAFE",
+    "grupo": "13",
+    "familia": "BASE COMFY",
+    "qtd_aberto": 4000,
+    "vlr_un": 2.6,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "12494",
+    "desc_completa": "BASE PEQUIM PU 1.0MM - PRETO",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 5000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "12495",
+    "desc_completa": "BASE PEQUIM 1.0MM - BRANCO",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 2000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "30167",
+    "desc_completa": "BASE PEQUIM PU 1.0MM - OFF WHITE 526",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "30168",
+    "desc_completa": "BASE PEQUIM PU 1.0MM - CREME",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "30169",
+    "desc_completa": "BASE PEQUIM PU 1.0MM - BEGE 626",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "30170",
+    "desc_completa": "BASE PEQUIM PU 1.0MM - OCRE",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "30171",
+    "desc_completa": "BASE PEQUIM PU 1.0 - CAMEL 1165",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "30172",
+    "desc_completa": "BASE PEQUIM PU 1.0 - CANELA",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "30173",
+    "desc_completa": "BASE PEQUIM 1.0MM - CAFE",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 3000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1614",
+    "produto": "30174",
+    "desc_completa": "BASE PEQUIM PU 1.0MM - CASTOR",
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "qtd_aberto": 2000,
+    "vlr_un": 2.51,
+    "dt_prazo_ent": "11/6/26"
+  },
+  {
+    "num_oc": "1633",
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 15000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "11/11/26"
+  },
+  {
+    "num_oc": "1633",
+    "produto": "30117",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CAFE",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 15000,
+    "vlr_un": 1.75,
+    "dt_prazo_ent": "11/11/26"
+  },
+  {
+    "num_oc": "1640",
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "qtd_aberto": 14363,
+    "vlr_un": 1.23,
+    "dt_prazo_ent": "8/13/26"
+  }
+]

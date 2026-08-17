@@ -1,0 +1,23 @@
+[
+  {
+    "produto": "9010",
+    "desc_completa": "BASE ECO FLEX 0.95MM - DARK GRAY",
+    "grupo": "13",
+    "familia": "BASE FLEX",
+    "qtd_aberto": 10000
+  },
+  {
+    "produto": "15721",
+    "desc_completa": "BASE ECO FLEX 0.95MM - CASTANHO",
+    "grupo": "13",
+    "familia": "BASE FLEX",
+    "qtd_aberto": 21000
+  },
+  {
+    "produto": "15721",
+    "desc_completa": "BASE ECO FLEX 0.95MM - CASTANHO",
+    "grupo": "13",
+    "familia": "BASE FLEX",
+    "qtd_aberto": 30610
+  }
+]
