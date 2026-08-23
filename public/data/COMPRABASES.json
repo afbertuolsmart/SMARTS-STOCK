@@ -1,75 +1,5 @@
 [
   {
-    "num_oc": "1255",
-    "produto": "9091",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 14000,
-    "vlr_un": 1.23,
-    "dt_prazo_ent": "6/14/26"
-  },
-  {
-    "num_oc": "1255",
-    "produto": "13485",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 450,
-    "vlr_un": 1.23,
-    "dt_prazo_ent": "6/14/26"
-  },
-  {
-    "num_oc": "1255",
-    "produto": "13486",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 14000,
-    "vlr_un": 1.23,
-    "dt_prazo_ent": "6/14/26"
-  },
-  {
-    "num_oc": "1288",
-    "produto": "9091",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 14000,
-    "vlr_un": 1.23,
-    "dt_prazo_ent": "5/22/26"
-  },
-  {
-    "num_oc": "1288",
-    "produto": "16904",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - CASTANHO",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 14000,
-    "vlr_un": 1.23,
-    "dt_prazo_ent": "5/22/26"
-  },
-  {
-    "num_oc": "1293",
-    "produto": "9091",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 14000,
-    "vlr_un": 1.23,
-    "dt_prazo_ent": "5/22/26"
-  },
-  {
-    "num_oc": "1293",
-    "produto": "12262",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 14000,
-    "vlr_un": 1.23,
-    "dt_prazo_ent": "5/22/26"
-  },
-  {
     "num_oc": "1345",
     "produto": "30099",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE 626 (COM MARCA D'AGUA)",
@@ -590,26 +520,6 @@
     "dt_prazo_ent": "7/14/26"
   },
   {
-    "num_oc": "1580",
-    "produto": "13485",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 13706,
-    "vlr_un": 1.75,
-    "dt_prazo_ent": "7/29/26"
-  },
-  {
-    "num_oc": "1580",
-    "produto": "16905",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 13200,
-    "vlr_un": 1.75,
-    "dt_prazo_ent": "7/29/26"
-  },
-  {
     "num_oc": "1581",
     "produto": "9091",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
@@ -828,15 +738,5 @@
     "qtd_aberto": 15000,
     "vlr_un": 1.75,
     "dt_prazo_ent": "11/11/26"
-  },
-  {
-    "num_oc": "1640",
-    "produto": "9091",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "qtd_aberto": 14363,
-    "vlr_un": 1.23,
-    "dt_prazo_ent": "8/13/26"
   }
 ]

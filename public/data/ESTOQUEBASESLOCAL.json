@@ -50,7 +50,7 @@
   {
     "produto": "5323",
     "desc_completa": "NAPA PELICA PU 0.9 FUCSIA 1015",
-    "qtd_fisica": 0,
+    "qtd_fisica": 2,
     "grupo": "13",
     "familia": "NAPA PELICA PU",
     "local_estoque": "Estoque Local"
@@ -58,7 +58,7 @@
   {
     "produto": "5323",
     "desc_completa": "NAPA PELICA PU 0.9 FUCSIA 1015",
-    "qtd_fisica": 2,
+    "qtd_fisica": 1100,
     "grupo": "13",
     "familia": "NAPA PELICA PU",
     "local_estoque": "Estoque Local"
@@ -74,7 +74,7 @@
   {
     "produto": "6518",
     "desc_completa": "BASE SUPREME CHASSI 0.9 WHITE",
-    "qtd_fisica": 571,
+    "qtd_fisica": 521,
     "grupo": "13",
     "familia": "BASE SUPREME CHASSI",
     "local_estoque": "Estoque Local"
@@ -138,7 +138,23 @@
   {
     "produto": "8007",
     "desc_completa": "BASE FLEX BRANCO 0.9",
-    "qtd_fisica": 288,
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "BASE FLEX",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "8007",
+    "desc_completa": "BASE FLEX BRANCO 0.9",
+    "qtd_fisica": 100,
+    "grupo": "13",
+    "familia": "BASE FLEX",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "8007",
+    "desc_completa": "BASE FLEX BRANCO 0.9",
+    "qtd_fisica": 188,
     "grupo": "13",
     "familia": "BASE FLEX",
     "local_estoque": "Estoque Local"
@@ -170,7 +186,23 @@
   {
     "produto": "8875",
     "desc_completa": "NAPA SARDENHA BEGE 1.45MM",
-    "qtd_fisica": 298,
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "NAPA SARDENHA",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "8875",
+    "desc_completa": "NAPA SARDENHA BEGE 1.45MM",
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "NAPA SARDENHA",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "8875",
+    "desc_completa": "NAPA SARDENHA BEGE 1.45MM",
+    "qtd_fisica": 359.6,
     "grupo": "13",
     "familia": "NAPA SARDENHA",
     "local_estoque": "Estoque Local"
@@ -202,7 +234,15 @@
   {
     "produto": "8879",
     "desc_completa": "NAPA CEDRO BRANCO 1.0 (PVC)",
-    "qtd_fisica": 440.5,
+    "qtd_fisica": 76.5,
+    "grupo": "13",
+    "familia": "NAPA CEDRO",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "8879",
+    "desc_completa": "NAPA CEDRO BRANCO 1.0 (PVC)",
+    "qtd_fisica": 364,
     "grupo": "13",
     "familia": "NAPA CEDRO",
     "local_estoque": "Estoque Local"
@@ -258,7 +298,15 @@
   {
     "produto": "8881",
     "desc_completa": "NAPA CEDRO JEANS 1.0 (PVC)",
-    "qtd_fisica": 1095.7,
+    "qtd_fisica": 18.7,
+    "grupo": "13",
+    "familia": "NAPA CEDRO",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "8881",
+    "desc_completa": "NAPA CEDRO JEANS 1.0 (PVC)",
+    "qtd_fisica": 1077,
     "grupo": "13",
     "familia": "NAPA CEDRO",
     "local_estoque": "Estoque Local"
@@ -290,7 +338,15 @@
   {
     "produto": "8882",
     "desc_completa": "NAPA CEDRO ROSA 1.0 (PVC)",
-    "qtd_fisica": 1243.2,
+    "qtd_fisica": 3.2,
+    "grupo": "13",
+    "familia": "NAPA CEDRO",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "8882",
+    "desc_completa": "NAPA CEDRO ROSA 1.0 (PVC)",
+    "qtd_fisica": 1240,
     "grupo": "13",
     "familia": "NAPA CEDRO",
     "local_estoque": "Estoque Local"
@@ -377,7 +433,7 @@
   },
   {
     "produto": "8923",
-    "desc_completa": "BASE COMFY PU 1.4MM WHITE",
+    "desc_completa": "BASE COMFY SKIN 1.4 WHITE",
     "qtd_fisica": 0,
     "grupo": "13",
     "familia": "BASE COMFY",
@@ -385,7 +441,7 @@
   },
   {
     "produto": "8923",
-    "desc_completa": "BASE COMFY PU 1.4MM WHITE",
+    "desc_completa": "BASE COMFY SKIN 1.4 WHITE",
     "qtd_fisica": 0,
     "grupo": "13",
     "familia": "BASE COMFY",
@@ -393,7 +449,7 @@
   },
   {
     "produto": "8923",
-    "desc_completa": "BASE COMFY PU 1.4MM WHITE",
+    "desc_completa": "BASE COMFY SKIN 1.4 WHITE",
     "qtd_fisica": 1160,
     "grupo": "13",
     "familia": "BASE COMFY",
@@ -401,7 +457,7 @@
   },
   {
     "produto": "8924",
-    "desc_completa": "BASE COMFY PU 1.4MM BEGE 435",
+    "desc_completa": "BASE COMFY SKIN 1.4 BEGE 435",
     "qtd_fisica": 0,
     "grupo": "13",
     "familia": "BASE COMFY",
@@ -409,7 +465,7 @@
   },
   {
     "produto": "8924",
-    "desc_completa": "BASE COMFY PU 1.4MM BEGE 435",
+    "desc_completa": "BASE COMFY SKIN 1.4 BEGE 435",
     "qtd_fisica": 0,
     "grupo": "13",
     "familia": "BASE COMFY",
@@ -417,7 +473,7 @@
   },
   {
     "produto": "8924",
-    "desc_completa": "BASE COMFYPU 1.4MM BEGE 435",
+    "desc_completa": "BASE COMFY SKIN 1.4 BEGE 435",
     "qtd_fisica": 1012,
     "grupo": "13",
     "familia": "BASE COMFY",
@@ -474,7 +530,7 @@
   {
     "produto": "8926",
     "desc_completa": "BASE GLITTER 1.0 SILVER",
-    "qtd_fisica": 5532,
+    "qtd_fisica": 5182,
     "grupo": "13",
     "familia": "BASE GLITTER",
     "local_estoque": "Estoque Local"
@@ -546,7 +602,7 @@
   {
     "produto": "9091",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
-    "qtd_fisica": 0,
+    "qtd_fisica": 13475,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -554,7 +610,7 @@
   {
     "produto": "9091",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
-    "qtd_fisica": 11441.5,
+    "qtd_fisica": 37732.5,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -578,7 +634,7 @@
   {
     "produto": "9295",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
-    "qtd_fisica": 200,
+    "qtd_fisica": 0,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -586,7 +642,7 @@
   {
     "produto": "9295",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
-    "qtd_fisica": 5802,
+    "qtd_fisica": 4102,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -778,6 +834,14 @@
   {
     "produto": "9469",
     "desc_completa": "NAPA CEDRO NUDE 658 1.0MM (PVC)",
+    "qtd_fisica": 49.7,
+    "grupo": "13",
+    "familia": "CEDRO",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "9469",
+    "desc_completa": "NAPA CEDRO NUDE 658 1.0MM (PVC)",
     "qtd_fisica": 50,
     "grupo": "13",
     "familia": "CEDRO",
@@ -786,7 +850,7 @@
   {
     "produto": "9469",
     "desc_completa": "NAPA CEDRO NUDE 658 1.0MM (PVC)",
-    "qtd_fisica": 522.7,
+    "qtd_fisica": 473,
     "grupo": "13",
     "familia": "CEDRO",
     "local_estoque": "Estoque Local"
@@ -810,7 +874,15 @@
   {
     "produto": "9573",
     "desc_completa": "BASE PVC WHITE - COM PAPEL CASCO",
-    "qtd_fisica": 460.5,
+    "qtd_fisica": 20.5,
+    "grupo": "13",
+    "familia": "NAPA BASE PVC",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "9573",
+    "desc_completa": "BASE PVC WHITE - COM PAPEL CASCO",
+    "qtd_fisica": 440,
     "grupo": "13",
     "familia": "NAPA BASE PVC",
     "local_estoque": "Estoque Local"
@@ -970,7 +1042,7 @@
   {
     "produto": "9869",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1 SILVER",
-    "qtd_fisica": 10222.5,
+    "qtd_fisica": 3322.5,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -1010,7 +1082,23 @@
   {
     "produto": "10047",
     "desc_completa": "VELVET JOLIE STAR - PRETO",
-    "qtd_fisica": 1454.6,
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "TECIDO VELVET",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "10047",
+    "desc_completa": "VELVET JOLIE STAR - PRETO",
+    "qtd_fisica": 0.6,
+    "grupo": "13",
+    "familia": "TECIDO VELVET",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "10047",
+    "desc_completa": "VELVET JOLIE STAR - PRETO",
+    "qtd_fisica": 1498,
     "grupo": "13",
     "familia": "TECIDO VELVET",
     "local_estoque": "Estoque Local"
@@ -1042,7 +1130,7 @@
   {
     "produto": "10103",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1 CREME",
-    "qtd_fisica": 1426.5,
+    "qtd_fisica": 1026.5,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -1066,7 +1154,7 @@
   {
     "produto": "10573",
     "desc_completa": "SUEDE HOLLAND PREMIUM - 901 EUROTEXTIL - CINZA",
-    "qtd_fisica": 0.9,
+    "qtd_fisica": 232.1,
     "grupo": "13",
     "familia": "TECIDO VELVET",
     "local_estoque": "Estoque Local"
@@ -1170,7 +1258,7 @@
   {
     "produto": "12262",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE",
-    "qtd_fisica": 2505,
+    "qtd_fisica": 2105,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1266,7 +1354,23 @@
   {
     "produto": "12494",
     "desc_completa": "BASE PEQUIM PU 1.0MM - PRETO",
-    "qtd_fisica": 2814,
+    "qtd_fisica": 10,
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "12494",
+    "desc_completa": "BASE PEQUIM PU 1.0MM - PRETO",
+    "qtd_fisica": 1311,
+    "grupo": "13",
+    "familia": "BASE PEQUIM",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "12494",
+    "desc_completa": "BASE PEQUIM PU 1.0MM - PRETO",
+    "qtd_fisica": 1493,
     "grupo": "13",
     "familia": "BASE PEQUIM",
     "local_estoque": "Estoque Local"
@@ -1314,7 +1418,7 @@
   {
     "produto": "13485",
     "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
-    "qtd_fisica": 0,
+    "qtd_fisica": 485,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1322,7 +1426,7 @@
   {
     "produto": "13485",
     "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
-    "qtd_fisica": 585,
+    "qtd_fisica": 14156,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1362,7 +1466,7 @@
   {
     "produto": "13486",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
-    "qtd_fisica": 0,
+    "qtd_fisica": 13320,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1394,7 +1498,15 @@
   {
     "produto": "14479",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1 BLACK (COM MARCA D'AGUA)",
-    "qtd_fisica": 17870.5,
+    "qtd_fisica": 4335.5,
+    "grupo": "13",
+    "familia": "NEW BASE VITÓRIA WZ",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "14479",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 BLACK (COM MARCA D'AGUA)",
+    "qtd_fisica": 12320,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -1418,7 +1530,7 @@
   {
     "produto": "14730",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1 WHITE COM MARCA D'AGUA",
-    "qtd_fisica": 2925,
+    "qtd_fisica": 2570,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -1490,15 +1602,7 @@
   {
     "produto": "16904",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CASTANHO",
-    "qtd_fisica": 11463,
-    "grupo": "13",
-    "familia": "BASE SHANGHAI",
-    "local_estoque": "Estoque Local"
-  },
-  {
-    "produto": "16905",
-    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
-    "qtd_fisica": 0,
+    "qtd_fisica": 24959,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1507,6 +1611,14 @@
     "produto": "16905",
     "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
     "qtd_fisica": 386,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "qtd_fisica": 13200,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
