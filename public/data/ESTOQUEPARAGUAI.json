@@ -118,5 +118,13 @@
     "grupo": "13",
     "familia": "BASE FLEX",
     "local_estoque": "Paraguai"
+  },
+  {
+    "produto": "15721",
+    "desc_completa": "BASE ECO FLEX 0.95MM - CASTANHO",
+    "qtd_fisica": 30780,
+    "grupo": "13",
+    "familia": "BASE FLEX",
+    "local_estoque": "Paraguai"
   }
 ]
