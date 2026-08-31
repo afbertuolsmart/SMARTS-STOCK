@@ -149,8 +149,22 @@ const selectedCorObjects =
 )}
 
 {!focusedFamily && !showColorAnalysis && summary && (
-  <div className="mb-4">
-    <SummaryCards summary={summary} />
+  <div className="mb-7 flex items-center gap-8">
+
+    <div className="flex-1">
+      <SummaryCards summary={summary} />
+    </div>
+
+    <div className="hidden lg:flex w-[190px] h-[105px] items-center justify-center shrink-0">
+
+      <img
+        src="/smart-group-logo.png"
+        alt="Smart Group"
+        className="w-[170px] h-auto object-contain opacity-80"
+      />
+
+    </div>
+
   </div>
 )}
 

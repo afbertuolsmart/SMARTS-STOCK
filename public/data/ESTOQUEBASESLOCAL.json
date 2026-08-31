@@ -74,7 +74,7 @@
   {
     "produto": "6518",
     "desc_completa": "BASE SUPREME CHASSI 0.9 WHITE",
-    "qtd_fisica": 521,
+    "qtd_fisica": 311,
     "grupo": "13",
     "familia": "BASE SUPREME CHASSI",
     "local_estoque": "Estoque Local"
@@ -562,7 +562,7 @@
   {
     "produto": "9010",
     "desc_completa": "BASE ECO FLEX 0.95MM - DARK GRAY",
-    "qtd_fisica": 200,
+    "qtd_fisica": 190,
     "grupo": "13",
     "familia": "BASE FLEX",
     "local_estoque": "Estoque Local"
@@ -578,7 +578,7 @@
   {
     "produto": "9073",
     "desc_completa": "BASE ECO FLEX 0.95MM - BISCOITO",
-    "qtd_fisica": 199,
+    "qtd_fisica": 194,
     "grupo": "13",
     "familia": "BASE FLEX",
     "local_estoque": "Estoque Local"
@@ -602,7 +602,7 @@
   {
     "produto": "9091",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
-    "qtd_fisica": 13475,
+    "qtd_fisica": 0,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -610,7 +610,23 @@
   {
     "produto": "9091",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
-    "qtd_fisica": 37732.5,
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "qtd_fisica": 44407.5,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -642,7 +658,15 @@
   {
     "produto": "9295",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
-    "qtd_fisica": 4102,
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "NEW BASE VITÓRIA WZ",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "9295",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
+    "qtd_fisica": 2182,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -1042,7 +1066,7 @@
   {
     "produto": "9869",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1 SILVER",
-    "qtd_fisica": 3322.5,
+    "qtd_fisica": 677,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -1258,7 +1282,7 @@
   {
     "produto": "12262",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE",
-    "qtd_fisica": 2105,
+    "qtd_fisica": 1305,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1418,7 +1442,7 @@
   {
     "produto": "13485",
     "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
-    "qtd_fisica": 485,
+    "qtd_fisica": 0,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1426,7 +1450,7 @@
   {
     "produto": "13485",
     "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
-    "qtd_fisica": 14156,
+    "qtd_fisica": 11841,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1466,7 +1490,7 @@
   {
     "produto": "13486",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
-    "qtd_fisica": 13320,
+    "qtd_fisica": 11500,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1498,7 +1522,7 @@
   {
     "produto": "14479",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1 BLACK (COM MARCA D'AGUA)",
-    "qtd_fisica": 4335.5,
+    "qtd_fisica": 4135.5,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -1530,7 +1554,7 @@
   {
     "produto": "14730",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1 WHITE COM MARCA D'AGUA",
-    "qtd_fisica": 2570,
+    "qtd_fisica": 2370,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -1602,7 +1626,23 @@
   {
     "produto": "16904",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CASTANHO",
-    "qtd_fisica": 24959,
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "16904",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CASTANHO",
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "16904",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CASTANHO",
+    "qtd_fisica": 23899,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1610,7 +1650,7 @@
   {
     "produto": "16905",
     "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
-    "qtd_fisica": 386,
+    "qtd_fisica": 0,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -1618,7 +1658,15 @@
   {
     "produto": "16905",
     "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
-    "qtd_fisica": 13200,
+    "qtd_fisica": 0,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "qtd_fisica": 8965,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"

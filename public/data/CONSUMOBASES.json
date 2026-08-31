@@ -106,6 +106,16 @@
     "descricao": "BASE SUPREME CHASSI",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 50,
+    "dt_movto": "8/24/26"
+  },
+  {
+    "cod_prod": "6518",
+    "desc_completa": "BASE SUPREME CHASSI 0.9 WHITE",
+    "grupo": "13",
+    "descricao": "BASE SUPREME CHASSI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 100,
     "dt_movto": "2/17/26"
   },
@@ -158,6 +168,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 200,
     "dt_movto": "7/6/26"
+  },
+  {
+    "cod_prod": "6518",
+    "desc_completa": "BASE SUPREME CHASSI 0.9 WHITE",
+    "grupo": "13",
+    "descricao": "BASE SUPREME CHASSI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/27/26"
   },
   {
     "cod_prod": "6518",
@@ -1176,6 +1196,16 @@
     "descricao": "BASE SHANGHAI",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 100,
+    "dt_movto": "8/25/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 114.3,
     "dt_movto": "1/15/26"
   },
@@ -1188,6 +1218,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 120,
     "dt_movto": "11/13/25"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 127.2,
+    "dt_movto": "8/26/26"
   },
   {
     "cod_prod": "9091",
@@ -1228,6 +1268,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 170,
     "dt_movto": "6/30/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 172.8,
+    "dt_movto": "8/26/26"
   },
   {
     "cod_prod": "9091",
@@ -1906,6 +1956,16 @@
     "descricao": "BASE SHANGHAI",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/28/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 209,
     "dt_movto": "10/30/25"
   },
@@ -2138,6 +2198,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 250,
     "dt_movto": "2/2/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 250,
+    "dt_movto": "8/26/26"
   },
   {
     "cod_prod": "9091",
@@ -2528,6 +2598,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 300,
     "dt_movto": "8/17/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 300,
+    "dt_movto": "8/26/26"
   },
   {
     "cod_prod": "9091",
@@ -3266,6 +3346,46 @@
     "descricao": "BASE SHANGHAI",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/25/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/25/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/26/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/26/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 402,
     "dt_movto": "4/27/26"
   },
@@ -3308,6 +3428,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 405,
     "dt_movto": "4/30/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 406,
+    "dt_movto": "8/28/26"
   },
   {
     "cod_prod": "9091",
@@ -3428,6 +3558,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 471,
     "dt_movto": "2/4/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 474,
+    "dt_movto": "8/28/26"
   },
   {
     "cod_prod": "9091",
@@ -4388,6 +4528,66 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 500,
     "dt_movto": "8/12/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/26/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/26/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/26/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/26/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/28/26"
+  },
+  {
+    "cod_prod": "9091",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/28/26"
   },
   {
     "cod_prod": "9091",
@@ -5626,6 +5826,26 @@
     "descricao": "NEW BASE VITÓRIA WZ",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/25/26"
+  },
+  {
+    "cod_prod": "9295",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "9295",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 201,
     "dt_movto": "10/30/25"
   },
@@ -6286,6 +6506,16 @@
     "descricao": "NEW BASE VITÓRIA WZ",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 346.8,
+    "dt_movto": "8/25/26"
+  },
+  {
+    "cod_prod": "9295",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 348,
     "dt_movto": "10/14/25"
   },
@@ -6348,6 +6578,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 350,
     "dt_movto": "10/9/25"
+  },
+  {
+    "cod_prod": "9295",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 350,
+    "dt_movto": "8/25/26"
   },
   {
     "cod_prod": "9295",
@@ -6468,6 +6708,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 396,
     "dt_movto": "6/15/26"
+  },
+  {
+    "cod_prod": "9295",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 397.3,
+    "dt_movto": "8/24/26"
   },
   {
     "cod_prod": "9295",
@@ -6928,6 +7178,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 415,
     "dt_movto": "2/17/26"
+  },
+  {
+    "cod_prod": "9295",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 420,
+    "dt_movto": "8/27/26"
   },
   {
     "cod_prod": "9295",
@@ -8796,6 +9056,16 @@
     "descricao": "NEW BASE VITÓRIA WZ",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 1,
+    "dt_movto": "8/26/26"
+  },
+  {
+    "cod_prod": "9869",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 SILVER",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 50,
     "dt_movto": "4/17/26"
   },
@@ -8856,6 +9126,16 @@
     "descricao": "NEW BASE VITÓRIA WZ",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 149,
+    "dt_movto": "8/25/26"
+  },
+  {
+    "cod_prod": "9869",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 SILVER",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 150,
     "dt_movto": "7/10/26"
   },
@@ -8898,6 +9178,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 200,
     "dt_movto": "1/29/26"
+  },
+  {
+    "cod_prod": "9869",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 SILVER",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 250,
+    "dt_movto": "8/25/26"
   },
   {
     "cod_prod": "9869",
@@ -8998,6 +9288,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 1035.6,
     "dt_movto": "8/18/26"
+  },
+  {
+    "cod_prod": "9869",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 SILVER",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 2151,
+    "dt_movto": "8/26/26"
   },
   {
     "cod_prod": "9869",
@@ -9846,6 +10146,16 @@
     "descricao": "TECIDO VELVET",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 28.7,
+    "dt_movto": "8/24/26"
+  },
+  {
+    "cod_prod": "10573",
+    "desc_completa": "SUEDE HOLLAND PREMIUM - 901 EUROTEXTIL - CINZA",
+    "grupo": "13",
+    "descricao": "TECIDO VELVET",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 30,
     "dt_movto": "11/20/25"
   },
@@ -9978,6 +10288,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 90,
     "dt_movto": "4/8/26"
+  },
+  {
+    "cod_prod": "10573",
+    "desc_completa": "SUEDE HOLLAND PREMIUM - 901 EUROTEXTIL - CINZA",
+    "grupo": "13",
+    "descricao": "TECIDO VELVET",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 171.3,
+    "dt_movto": "8/24/26"
   },
   {
     "cod_prod": "12262",
@@ -11068,6 +11388,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 200,
     "dt_movto": "8/10/26"
+  },
+  {
+    "cod_prod": "12262",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/26/26"
   },
   {
     "cod_prod": "12262",
@@ -12858,6 +13188,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 400,
     "dt_movto": "8/17/26"
+  },
+  {
+    "cod_prod": "12262",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/26/26"
   },
   {
     "cod_prod": "12262",
@@ -15136,6 +15476,16 @@
     "descricao": "BASE SHANGHAI",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 85,
+    "dt_movto": "8/28/26"
+  },
+  {
+    "cod_prod": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 89.5,
     "dt_movto": "6/22/26"
   },
@@ -15198,6 +15548,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 100,
     "dt_movto": "8/19/26"
+  },
+  {
+    "cod_prod": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 115,
+    "dt_movto": "8/28/26"
   },
   {
     "cod_prod": "13485",
@@ -15508,6 +15868,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 200,
     "dt_movto": "7/7/26"
+  },
+  {
+    "cod_prod": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/28/26"
   },
   {
     "cod_prod": "13485",
@@ -16266,6 +16636,16 @@
     "descricao": "BASE SHANGHAI",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/24/26"
+  },
+  {
+    "cod_prod": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 401,
     "dt_movto": "4/30/26"
   },
@@ -16448,6 +16828,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 488,
     "dt_movto": "4/9/26"
+  },
+  {
+    "cod_prod": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 492,
+    "dt_movto": "8/26/26"
   },
   {
     "cod_prod": "13485",
@@ -17048,6 +17438,36 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 500,
     "dt_movto": "8/7/26"
+  },
+  {
+    "cod_prod": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/26/26"
+  },
+  {
+    "cod_prod": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/26/26"
+  },
+  {
+    "cod_prod": "13485",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/26/26"
   },
   {
     "cod_prod": "13485",
@@ -17676,6 +18096,26 @@
     "descricao": "BASE SHANGHAI",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 300,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "13486",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 300,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "13486",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 400,
     "dt_movto": "9/9/25"
   },
@@ -17698,6 +18138,36 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 400,
     "dt_movto": "9/10/25"
+  },
+  {
+    "cod_prod": "13486",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "13486",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "13486",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/27/26"
   },
   {
     "cod_prod": "13486",
@@ -17856,6 +18326,16 @@
     "descricao": "NEW BASE VITÓRIA WZ",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 4,
+    "dt_movto": "8/24/26"
+  },
+  {
+    "cod_prod": "14479",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 BLACK (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 15,
     "dt_movto": "5/11/26"
   },
@@ -17936,6 +18416,16 @@
     "descricao": "NEW BASE VITÓRIA WZ",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 196,
+    "dt_movto": "8/24/26"
+  },
+  {
+    "cod_prod": "14479",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 BLACK (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 200,
     "dt_movto": "10/30/25"
   },
@@ -17988,6 +18478,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 200,
     "dt_movto": "8/5/26"
+  },
+  {
+    "cod_prod": "14479",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 BLACK (COM MARCA D'AGUA)",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/24/26"
   },
   {
     "cod_prod": "14479",
@@ -18958,6 +19458,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 200,
     "dt_movto": "8/12/26"
+  },
+  {
+    "cod_prod": "14730",
+    "desc_completa": "NEW BASE VITÓRIA WZ 1.1 WHITE COM MARCA D'AGUA",
+    "grupo": "13",
+    "descricao": "NEW BASE VITÓRIA WZ",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/24/26"
   },
   {
     "cod_prod": "14730",
@@ -19956,6 +20466,16 @@
     "descricao": "BASE SHANGHAI",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/28/26"
+  },
+  {
+    "cod_prod": "16904",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CASTANHO",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 300,
     "dt_movto": "5/27/26"
   },
@@ -20270,6 +20790,16 @@
     "dt_movto": "7/6/26"
   },
   {
+    "cod_prod": "16904",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CASTANHO",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 800,
+    "dt_movto": "8/28/26"
+  },
+  {
     "cod_prod": "16905",
     "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
     "grupo": "13",
@@ -20278,6 +20808,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 60,
     "dt_movto": "6/2/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 100,
+    "dt_movto": "8/27/26"
   },
   {
     "cod_prod": "16905",
@@ -20338,6 +20878,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 200,
     "dt_movto": "7/27/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/27/26"
   },
   {
     "cod_prod": "16905",
@@ -20478,6 +21028,16 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 300,
     "dt_movto": "8/12/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 300,
+    "dt_movto": "8/27/26"
   },
   {
     "cod_prod": "16905",
@@ -20636,6 +21196,56 @@
     "descricao": "BASE SHANGHAI",
     "orig_movto": "20",
     "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/28/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 499.2,
     "dt_movto": "5/14/26"
   },
@@ -20718,6 +21328,46 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 500,
     "dt_movto": "8/10/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/27/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 500,
+    "dt_movto": "8/27/26"
   },
   {
     "cod_prod": "16905",
@@ -20818,5 +21468,35 @@
     "descr_orig_movto": "Item de ordem de produção",
     "qtd_movimentada": 550,
     "dt_movto": "7/22/26"
+  },
+  {
+    "cod_prod": "8926",
+    "desc_completa": "BASE GLITTER 1.0 SILVER",
+    "grupo": "13",
+    "descricao": "BASE GLITTER",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/31/26"
+  },
+  {
+    "cod_prod": "12262",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 200,
+    "dt_movto": "8/31/26"
+  },
+  {
+    "cod_prod": "16905",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WH",
+    "grupo": "13",
+    "descricao": "BASE SHANGHAI",
+    "orig_movto": "20",
+    "descr_orig_movto": "Item de ordem de produção",
+    "qtd_movimentada": 400,
+    "dt_movto": "8/31/26"
   }
 ]

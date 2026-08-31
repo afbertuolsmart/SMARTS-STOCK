@@ -5,11 +5,8 @@ import { ArrowLeft } from 'lucide-react';
 
 import {
   fmtQty,
-  buildWindowTrend,
   getWindowValue
 } from '@/lib/dashboardData';
-
-import { ConsumoVendasChart } from '@/components/dashboard/ConsumoVendasChart';
 
 const WINDOWS = [
   { key: 'consumo_1m', label: 'Último mês' },
@@ -130,12 +127,6 @@ export function ColorAnalysisPanel({
       'vendas'
     );
 
-  const trend = buildWindowTrend(
-    cor.consumoByDay,
-    cor.vendasByDay,
-    windowKey
-  );
-
   const meses =
     windowKey === 'consumo_1m'
       ? 1
@@ -167,13 +158,13 @@ export function ColorAnalysisPanel({
 
 
   return (
-    <Card className="p-5 bg-white border-[#D5E0E5] shadow-sm">
+    <Card className="p-5 bg-white border-[#E6E0D8] shadow-sm">
 
       <Button
         variant="ghost"
         size="sm"
         onClick={onBack}
-        className="mb-2 -ml-2 text-[#667983] hover:text-[#123B4A]"
+        className="mb-3 -ml-2 text-[#6F777D] hover:text-[#2F3437]"
       >
         <ArrowLeft className="h-4 w-4 mr-1" />
         Voltar para as famílias
@@ -181,26 +172,26 @@ export function ColorAnalysisPanel({
 
       <div className="mb-4">
 
-        <h2 className="text-xl font-bold text-[#123B4A]">
+        <h2 className="text-[22px] font-semibold tracking-tight text-[#2F3437]">
           {familia}
         </h2>
 
-        <p className="text-sm text-[#667983]">
+        <p className="text-[13px] text-[#7A8187]">
           Cores selecionadas:{' '}
-          <span className="font-semibold text-[#18323D]">
+          <span className="font-semibold text-[#364047]">
             {cores.map(c => c.cor).join(', ')}
           </span>
         </p>
 
       </div>
 
-      <div className="mb-5">
+      <div className="mb-7">
 
-        <p className="text-xs font-semibold uppercase tracking-wider text-[#667983] mb-2">
+        <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#7A8187] mb-2">
           Janela de consumo
         </p>
 
-        <div className="flex flex-wrap rounded-lg border border-[#D5E0E5] bg-[#F5F8F9] p-1 gap-1 w-fit">
+        <div className="flex flex-wrap rounded-xl border border-[#E6E0D8] bg-[#F8F6F2] p-1 gap-1 w-fit">
 
           {WINDOWS.map(w => (
 
@@ -211,8 +202,8 @@ export function ColorAnalysisPanel({
               }
               className={`px-3 py-1.5 text-sm rounded-md font-medium transition-colors ${
                 windowKey === w.key
-                  ? 'bg-[#1F6075] text-white shadow-sm'
-                  : 'hover:bg-white text-[#667983]'
+                  ? 'bg-[#364047] text-white shadow-sm'
+                  : 'hover:bg-[#FFFDFC] text-[#6F777D]'
               }`}
             >
               {w.label}
@@ -225,31 +216,229 @@ export function ColorAnalysisPanel({
       </div>
 
 {/* ========================================================= */}
+{/* POSIÇÃO DE ABASTECIMENTO */}
+{/* ========================================================= */}
+
+<div className="mb-5">
+
+  {(() => {
+
+    // =======================================================
+    // CONSUMO MÉDIO MENSAL DOS ÚLTIMOS 3 MESES
+    // =======================================================
+
+    const consumoMedio3m =
+      (Number(cor.consumo_3m) || 0) / 3;
+
+    // =======================================================
+    // ESTOQUE JÁ DISPONÍVEL
+    // =======================================================
+
+    const estoqueEmCasa =
+      Number(cor.estoqueLocal) || 0;
+
+    // =======================================================
+    // COMPRAS A RECEBER
+    // =======================================================
+
+    const comprasBrasil =
+      Number(cor.compras) || 0;
+
+    const comprasParaguai =
+      Number(cor.comprasParaguai) || 0;
+
+    const comprasAReceber =
+      comprasBrasil + comprasParaguai;
+
+    // =======================================================
+    // TOTAL
+    // =======================================================
+
+    const totalAbastecimento =
+      estoqueEmCasa + comprasAReceber;
+
+    // =======================================================
+    // COBERTURA EM MESES
+    // =======================================================
+
+    const mesesEmCasa =
+      consumoMedio3m > 0
+        ? estoqueEmCasa / consumoMedio3m
+        : 0;
+
+    const mesesAReceber =
+      consumoMedio3m > 0
+        ? comprasAReceber / consumoMedio3m
+        : 0;
+
+    // =======================================================
+    // PERCENTUAIS PARA A BARRA
+    // =======================================================
+
+    const percentualEmCasa =
+      totalAbastecimento > 0
+        ? (estoqueEmCasa / totalAbastecimento) * 100
+        : 0;
+
+    const percentualAReceber =
+      totalAbastecimento > 0
+        ? (comprasAReceber / totalAbastecimento) * 100
+        : 0;
+
+    return (
+      <div className="rounded-2xl border border-[#E6E0D8] bg-[#FAF8F4] p-4">
+
+        {/* ================================================= */}
+        {/* CABEÇALHO */}
+        {/* ================================================= */}
+
+        <div className="flex items-center justify-between mb-3">
+
+          <div>
+
+            <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#7A8187]">
+              Posição de abastecimento
+            </p>
+
+            <p className="mt-1 text-xs text-[#8A8F93]">
+              Baseada no consumo médio dos últimos 3 meses
+            </p>
+
+          </div>
+
+          <p className="text-sm font-bold text-[#364047]">
+            {fmtQty(totalAbastecimento)}
+          </p>
+
+        </div>
+
+
+        {/* ================================================= */}
+        {/* BARRA */}
+        {/* ================================================= */}
+
+        <div className="flex h-2.5 w-full overflow-hidden rounded-full bg-[#ECE7E1]">
+
+          <div
+            className="h-full bg-[#5A9276] transition-all duration-300"
+            style={{
+              width: `${Math.max(
+                0,
+                Math.min(100, percentualEmCasa)
+              )}%`
+            }}
+          />
+
+          <div
+            className="h-full bg-[#D9776A] transition-all duration-300"
+            style={{
+              width: `${Math.max(
+                0,
+                Math.min(100, percentualAReceber)
+              )}%`
+            }}
+          />
+
+        </div>
+
+
+        {/* ================================================= */}
+        {/* MESES */}
+        {/* ================================================= */}
+
+        <div className="mt-3 grid grid-cols-2 gap-4">
+
+          {/* EM CASA */}
+
+          <div>
+
+            <p className="text-xs text-[#6F777D]">
+              Já em casa
+            </p>
+
+            <p className="mt-1 text-[19px] font-semibold text-[#5A9276]">
+              {mesesEmCasa.toFixed(1)} meses
+            </p>
+
+            <p className="text-[11px] text-[#8A8F93]">
+              {fmtQty(estoqueEmCasa)}
+            </p>
+
+          </div>
+
+
+          {/* A CHEGAR */}
+
+          <div className="text-right">
+
+            <p className="text-xs text-[#6F777D]">
+              A chegar
+            </p>
+
+            <p className="mt-1 text-[19px] font-semibold text-[#D9776A]">
+              {mesesAReceber.toFixed(1)} meses
+            </p>
+
+            <p className="text-[11px] text-[#8A8F93]">
+              {fmtQty(comprasAReceber)}
+            </p>
+
+          </div>
+
+        </div>
+
+
+        {/* ================================================= */}
+        {/* DETALHE DAS COMPRAS */}
+        {/* ================================================= */}
+
+        {comprasAReceber > 0 && (
+          <div className="mt-2 flex justify-end gap-3 text-[10px] text-[#8A8F93]">
+
+            <span>
+              Brasil: {fmtQty(comprasBrasil)}
+            </span>
+
+            <span>
+              Paraguai: {fmtQty(comprasParaguai)}
+            </span>
+
+          </div>
+        )}
+
+      </div>
+    );
+
+  })()}
+
+</div>
+
+{/* ========================================================= */}
 {/* ESTOQUE */}
 {/* ========================================================= */}
 
-<div className="mb-6">
+<div className="mb-7">
 
-  <div className="rounded-xl border border-[#D5E0E5] bg-[#F8FAFB] p-5">
+  <div className="rounded-2xl border border-[#E6E0D8] bg-[#FBFAF7] p-5">
 
     <div className="flex items-end justify-between mb-4">
 
       <div>
-        <p className="text-xs font-semibold uppercase tracking-wider text-[#667983]">
+        <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#7A8187]">
           Estoque Total
         </p>
 
-        <p className="mt-1 text-3xl font-bold tracking-tight text-[#123B4A]">
+        <p className="mt-1 text-[34px] font-semibold tracking-tight text-[#2F3437]">
           {fmtQty(cor.estoqueGeral)}
         </p>
       </div>
 
       <div className="text-right">
-        <p className="text-xs text-[#667983]">
+        <p className="text-xs text-[#6F777D]">
           Distribuição por local
         </p>
 
-        <p className="text-xs font-medium text-[#18323D]">
+        <p className="text-xs font-medium text-[#364047]">
           Estoque físico + posições externas
         </p>
       </div>
@@ -261,17 +450,17 @@ export function ColorAnalysisPanel({
 
       {/* ESTOQUE LOCAL */}
 
-      <div className="rounded-xl bg-white border border-[#D5E0E5] border-l-4 border-l-[#1F6075] p-4">
+      <div className="rounded-xl bg-[#FFFDFC] border border-[#E6E0D8] border-l-[3px] border-l-[#587486] p-3.5">
 
-        <p className="text-xs font-semibold uppercase tracking-wide text-[#667983]">
+        <p className="text-xs font-semibold uppercase tracking-wide text-[#6F777D]">
           Estoque Local
         </p>
 
-        <p className="mt-2 text-2xl font-bold text-[#1F6075]">
+        <p className="mt-2 text-[25px] font-semibold text-[#587486]">
           {fmtQty(cor.estoqueLocal || 0)}
         </p>
 
-        <p className="mt-1 text-xs text-[#667983]">
+        <p className="mt-1 text-xs text-[#6F777D]">
           Estoque físico
         </p>
 
@@ -280,17 +469,17 @@ export function ColorAnalysisPanel({
 
       {/* ESTOQUE PARAGUAI */}
 
-      <div className="rounded-xl bg-white border border-[#D5E0E5] border-l-4 border-l-[#123B4A] p-4">
+      <div className="rounded-xl bg-[#FFFDFC] border border-[#E6E0D8] border-l-4 border-l-[#2F3437] p-4">
 
-        <p className="text-xs font-semibold uppercase tracking-wide text-[#667983]">
+        <p className="text-xs font-semibold uppercase tracking-wide text-[#6F777D]">
           Estoque Paraguai
         </p>
 
-        <p className="mt-2 text-2xl font-bold text-[#123B4A]">
+        <p className="mt-2 text-[25px] font-semibold text-[#4F626C]">
           {fmtQty(cor.estoqueParaguai || 0)}
         </p>
 
-        <p className="mt-1 text-xs text-[#667983]">
+        <p className="mt-1 text-xs text-[#6F777D]">
           Estoque externo
         </p>
 
@@ -299,17 +488,17 @@ export function ColorAnalysisPanel({
 
       {/* ESTOQUE EADI */}
 
-      <div className="rounded-xl bg-white border border-[#D5E0E5] border-l-4 border-l-[#249A98] p-4">
+      <div className="rounded-xl bg-[#FFFDFC] border border-[#E6E0D8] border-l-4 border-l-[#7BA39C] p-4">
 
-        <p className="text-xs font-semibold uppercase tracking-wide text-[#667983]">
+        <p className="text-xs font-semibold uppercase tracking-wide text-[#6F777D]">
           Estoque EADI
         </p>
 
-        <p className="mt-2 text-2xl font-bold text-[#249A98]">
+        <p className="mt-2 text-[25px] font-semibold text-[#5D8B83]">
           {fmtQty(cor.estoqueEadi || 0)}
         </p>
 
-        <p className="mt-1 text-xs text-[#667983]">
+        <p className="mt-1 text-xs text-[#6F777D]">
           Estoque em EADI
         </p>
 
@@ -326,29 +515,16 @@ export function ColorAnalysisPanel({
 {/* INDICADORES */}
 {/* ========================================================= */}
 
-<div className="mb-6">
+<div className="mb-7">
 
-  <p className="mb-3 text-xs font-semibold uppercase tracking-wider text-[#667983]">
+  <p className="mb-3 text-[10px] font-semibold uppercase tracking-[0.14em] text-[#7A8187]">
     Indicadores
   </p>
 
 
-  <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+  <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
 
 
-    {/* COMPRAS */}
-
-    <div className="rounded-xl border border-[#D5E0E5] bg-white p-4">
-
-      <p className="text-xs font-medium text-[#667983]">
-        Compras em Aberto
-      </p>
-
-      <p className="mt-2 text-xl font-bold text-[#B45309]">
-        {fmtQty(cor.compras)}
-      </p>
-
-    </div>
 
     {/* COMPRAS */}
 
@@ -358,7 +534,7 @@ export function ColorAnalysisPanel({
     Compras em Aberto
   </p>
 
-  <p className="mt-2 text-xl font-bold text-[#B45309]">
+  <p className="mt-2 text-xl font-bold text-[#B9824A]">
     {fmtQty(cor.compras)}
   </p>
 
@@ -373,52 +549,22 @@ export function ColorAnalysisPanel({
     Compra Paraguai
   </p>
 
-  <p className="mt-2 text-xl font-bold text-[#123B5D]">
+  <p className="mt-2 text-xl font-bold text-[#587486]">
     {fmtQty(cor.comprasParaguai || 0)}
   </p>
 
 </div>
 
 
-    {/* OP */}
-
-    <div className="rounded-xl border border-[#D5E0E5] bg-white p-4">
-
-      <p className="text-xs font-medium text-[#667983]">
-        Ordens de Produção
-      </p>
-
-      <p className="mt-2 text-xl font-bold text-[#1F6075]">
-        {fmtQty(cor.op)}
-      </p>
-
-    </div>
-
-
-    {/* VENDAS */}
-
-    <div className="rounded-xl border border-[#D5E0E5] bg-white p-4">
-
-      <p className="text-xs font-medium text-[#667983]">
-        Vendas ({windowLabel})
-      </p>
-
-      <p className="mt-2 text-xl font-bold text-[#16856A]">
-        {fmtQty(cor[vendasKey] || 0)}
-      </p>
-
-    </div>
-
-
     {/* CONSUMO */}
 
-    <div className="rounded-xl border border-[#D5E0E5] bg-white p-4">
+    <div className="rounded-xl border border-[#E6E0D8] bg-white p-4">
 
-      <p className="text-xs font-medium text-[#667983]">
+      <p className="text-xs font-medium text-[#6F777D]">
         Consumo ({windowLabel})
       </p>
 
-      <p className="mt-2 text-xl font-bold text-[#D97706]">
+      <p className="mt-2 text-[19px] font-semibold text-[#D9776A]">
         {fmtQty(consumo)}
       </p>
 
@@ -438,19 +584,19 @@ export function ColorAnalysisPanel({
 
   {/* COBERTURA */}
 
-  <div className="rounded-xl border border-[#D5E0E5] bg-white p-4">
+  <div className="rounded-xl border border-[#E6E0D8] bg-white p-4">
 
-    <p className="text-xs font-semibold uppercase tracking-wider text-[#667983]">
+    <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#7A8187]">
       Cobertura
     </p>
 
     <div className="flex items-end justify-between">
 
-      <p className="mt-2 text-2xl font-bold text-[#DC2626]">
+      <p className="mt-2 text-[25px] font-semibold text-[#C65F55]">
         {cobertura.toFixed(1)} meses
       </p>
 
-      <span className="text-xs text-[#667983]">
+      <span className="text-xs text-[#6F777D]">
         Estoque / demanda
       </span>
 
@@ -461,19 +607,19 @@ export function ColorAnalysisPanel({
 
   {/* SUGESTÃO DE COMPRA */}
 
-  <div className="rounded-xl border border-[#BFE5D5] bg-[#F4FBF8] p-4">
+  <div className="rounded-xl border border-[#DDE9E0] bg-[#F5F8F5] p-4">
 
-    <p className="text-xs font-semibold uppercase tracking-wider text-[#667983]">
+    <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-[#7A8187]">
       Sugestão de Compra
     </p>
 
     <div className="flex items-end justify-between">
 
-      <p className="mt-2 text-2xl font-bold text-[#16856A]">
+      <p className="mt-2 text-[25px] font-semibold text-[#4F856A]">
         {fmtQty(sugestaoCompra)}
       </p>
 
-      <span className="text-xs text-[#667983]">
+      <span className="text-xs text-[#6F777D]">
         Quantidade sugerida
       </span>
 
@@ -483,19 +629,6 @@ export function ColorAnalysisPanel({
 
 </div>
 
-      <div className="mb-2">
-
-        <h3 className="text-sm font-semibold text-[#18323D]">
-          Tendência de Consumo e Vendas — {windowLabel}
-        </h3>
-
-      </div>
-
-      <div className="border border-[#D5E0E5] rounded-lg bg-white p-3">
-
-        <ConsumoVendasChart data={trend} />
-
-      </div>
 
     </Card>
   );
