@@ -162,7 +162,7 @@
   {
     "produto": "9091",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BLACK",
-    "qtd_fisica": 37757.5,
+    "qtd_fisica": 34462.5,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -170,7 +170,7 @@
   {
     "produto": "9295",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1  BEGE 435",
-    "qtd_fisica": 1302,
+    "qtd_fisica": 902,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -314,7 +314,7 @@
   {
     "produto": "9869",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1 SILVER",
-    "qtd_fisica": 677,
+    "qtd_fisica": 707,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -360,6 +360,30 @@
     "local_estoque": "Estoque Local"
   },
   {
+    "produto": "10568",
+    "desc_completa": "NEW BASE VITORIA WZ 1.1 BLACK  (TIRAS)",
+    "qtd_fisica": 220,
+    "grupo": "13",
+    "familia": "",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "10569",
+    "desc_completa": "NEW BASE VITORIA WZ 1.1 WHITE (TIRAS)",
+    "qtd_fisica": 45,
+    "grupo": "13",
+    "familia": "",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "10569",
+    "desc_completa": "NEW BASE VITORIA WZ 1.1 WHITE (TIRAS)",
+    "qtd_fisica": 150,
+    "grupo": "13",
+    "familia": "",
+    "local_estoque": "Estoque Local"
+  },
+  {
     "produto": "10573",
     "desc_completa": "SUEDE HOLLAND PREMIUM - 901 EUROTEXTIL - CINZA",
     "qtd_fisica": 232.1,
@@ -378,9 +402,25 @@
   {
     "produto": "12262",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE",
-    "qtd_fisica": 1075,
+    "qtd_fisica": 468,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "12390",
+    "desc_completa": "NEW BASE VITORIA WZ 1.1 CREME (TIRAS)",
+    "qtd_fisica": 50,
+    "grupo": "13",
+    "familia": "",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "12390",
+    "desc_completa": "NEW BASE VITORIA WZ 1.1 CREME (TIRAS)",
+    "qtd_fisica": 100,
+    "grupo": "13",
+    "familia": "",
     "local_estoque": "Estoque Local"
   },
   {
@@ -418,7 +458,7 @@
   {
     "produto": "13485",
     "desc_completa": "BASE SHANGHAI PU 1.05 - WHITE",
-    "qtd_fisica": 7961,
+    "qtd_fisica": 4741,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -426,7 +466,7 @@
   {
     "produto": "13486",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CREME",
-    "qtd_fisica": 11280,
+    "qtd_fisica": 10280,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -442,7 +482,7 @@
   {
     "produto": "14479",
     "desc_completa": "NEW BASE VITÓRIA WZ 1.1 BLACK (COM MARCA D'AGUA)",
-    "qtd_fisica": 3703.5,
+    "qtd_fisica": 2703.5,
     "grupo": "13",
     "familia": "NEW BASE VITÓRIA WZ",
     "local_estoque": "Estoque Local"
@@ -474,7 +514,7 @@
   {
     "produto": "16904",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CASTANHO",
-    "qtd_fisica": 12764,
+    "qtd_fisica": 11264,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -482,7 +522,7 @@
   {
     "produto": "16905",
     "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE",
-    "qtd_fisica": 8565,
+    "qtd_fisica": 4845,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -506,7 +546,7 @@
   {
     "produto": "17612",
     "desc_completa": "BASE STRETCH 0,85 - BISCOITO",
-    "qtd_fisica": 340,
+    "qtd_fisica": 40,
     "grupo": "13",
     "familia": "BASE STRETCH",
     "local_estoque": "Estoque Local"
@@ -522,7 +562,7 @@
   {
     "produto": "30099",
     "desc_completa": "BASE SHANGHAI PU 1.05 - BEGE 626 (COM MARCA D'AGUA)",
-    "qtd_fisica": 11915,
+    "qtd_fisica": 2110,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -562,7 +602,15 @@
   {
     "produto": "30102",
     "desc_completa": "BASE SHANGHAI PU 1.05 - NUDE (COM MARCA D'AGUA)",
-    "qtd_fisica": 8140,
+    "qtd_fisica": 200,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "30102",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - NUDE (COM MARCA D'AGUA)",
+    "qtd_fisica": 7540,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -586,7 +634,15 @@
   {
     "produto": "30104",
     "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE 526 (COM MARCA D'AGUA)",
-    "qtd_fisica": 10917,
+    "qtd_fisica": 2305,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "30104",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - OFF WHITE 526 (COM MARCA D'AGUA)",
+    "qtd_fisica": 7767,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -602,7 +658,15 @@
   {
     "produto": "30106",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CAMEL 1165 (COM MARCA D'AGUA)",
-    "qtd_fisica": 6875,
+    "qtd_fisica": 2970,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "30106",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CAMEL 1165 (COM MARCA D'AGUA)",
+    "qtd_fisica": 3875,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -610,7 +674,7 @@
   {
     "produto": "30107",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CANELA (COM MARCA D'AGUA)",
-    "qtd_fisica": 1697,
+    "qtd_fisica": 1482,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -618,7 +682,15 @@
   {
     "produto": "30108",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CARAMELO (COM MARCA D'AGUA)",
-    "qtd_fisica": 4054,
+    "qtd_fisica": 150,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "30108",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CARAMELO (COM MARCA D'AGUA)",
+    "qtd_fisica": 3904,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -626,7 +698,15 @@
   {
     "produto": "30109",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CASTOR (COM MARCA D'AGUA)",
-    "qtd_fisica": 6082,
+    "qtd_fisica": 150,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "30109",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CASTOR (COM MARCA D'AGUA)",
+    "qtd_fisica": 5932,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -634,7 +714,15 @@
   {
     "produto": "30110",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CONHAQUE (COM MARCA D'AGUA)",
-    "qtd_fisica": 3690,
+    "qtd_fisica": 150,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "30110",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - CONHAQUE (COM MARCA D'AGUA)",
+    "qtd_fisica": 3540,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -642,7 +730,15 @@
   {
     "produto": "30111",
     "desc_completa": "BASE SHANGHAI PU 1.05 - MEL (COM MARCA D'AGUA)",
-    "qtd_fisica": 2520,
+    "qtd_fisica": 150,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "30111",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MEL (COM MARCA D'AGUA)",
+    "qtd_fisica": 2370,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -666,7 +762,7 @@
   {
     "produto": "30117",
     "desc_completa": "BASE SHANGHAI PU 1.05 - CAFE",
-    "qtd_fisica": 3870,
+    "qtd_fisica": 2870,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
@@ -682,7 +778,15 @@
   {
     "produto": "30118",
     "desc_completa": "BASE SHANGHAI PU 1.05 - MILITAR (COM MARCA D'AGUA)",
-    "qtd_fisica": 2396,
+    "qtd_fisica": 150,
+    "grupo": "13",
+    "familia": "BASE SHANGHAI",
+    "local_estoque": "Estoque Local"
+  },
+  {
+    "produto": "30118",
+    "desc_completa": "BASE SHANGHAI PU 1.05 - MILITAR (COM MARCA D'AGUA)",
+    "qtd_fisica": 2246,
     "grupo": "13",
     "familia": "BASE SHANGHAI",
     "local_estoque": "Estoque Local"
