@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-08-12T20:00:51.536Z",
+  "updatedAt": "2026-09-18T11:56:46.838Z",
   "counts": {
-    "estoque": 2659,
-    "compras": 36,
-    "consumo": 1406,
-    "vendas": 5476,
-    "ordens": 34
+    "COMPRABASES": 64,
+    "COMPRAPARAGUAI": 7,
+    "CONSUMOBASES": 2101,
+    "ESTOQUEBASESLOCAL": 92,
+    "ESTOQUEEADI": 1,
+    "ESTOQUEPARAGUAI": 16
   }
 }
