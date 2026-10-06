@@ -17,6 +17,7 @@ export const FAMILIAS = [
   "VELVET JOLIE STAR",
   "NAPA PELICA",
   "SUEDE HOLLAND",
+  "TURIM",
 
 ];
 
