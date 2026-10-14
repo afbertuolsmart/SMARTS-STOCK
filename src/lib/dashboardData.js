@@ -815,6 +815,11 @@ getArray(data, 'comprasParaguai').forEach(r => {
     if (w.m12) { fam.vendas_12m += qty; c.vendas_12m += qty; item.vendas_12m += qty; }
   });
 
+  // Garante que TURIM apareça mesmo sem registros reconhecidos.
+  if (!families['TURIM']) {
+    getFam('TURIM', 'Nacional');
+  }
+
   console.log('ESTOQUE POR LOCAL:', Object.values(families).map(f => ({
   familia: f.familia,
   estoque: f.estoque,
